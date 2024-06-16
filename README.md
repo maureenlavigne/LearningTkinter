@@ -1,2 +1,2 @@
-# LearningTkinter
-Playing along learning to code Tkinter.
+# PinkCalculator
+Creating a Pink Calculator on Tkinter.
