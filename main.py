@@ -42,7 +42,7 @@ tk.Button(root, text="←", padx=20, pady=20, bg="pink", font=("Times", 16, "bol
 
 # Create a Clear (C) button
 tk.Button(root, text="C", width=15, padx=20, pady=20, bg="pink", font=("Times", 16, "bold"),
-          command=lambda: button_click("C")).grid(row=5, column=0, columnspan = 3)
+          command=lambda: button_click("C")).grid(row=5, column=0, columnspan=3)
 
 
 # Function to update the input field
